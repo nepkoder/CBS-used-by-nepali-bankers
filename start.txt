@@ -1,1 +1,42 @@
-tesst git quick start demo
+Core banking system in Nepal
+Banking software used by Nepali Bankers
+
+Top 5 Core Banking Software (CBS) in Nepal
+1. Pumori IV
+- NMB BANK 
+- SUNRISE BANK
+- DCBL BANK
+- COMMERCZ AND TRUST BANK 
+
+2. Pumori III 
+- NIC ASIA BANK 
+- NCC BANK 
+- NEPAL BANK 
+- RB BANK 
+- KIST BANK 
+- PRIME BANK 
+- CITIZEN BANK 
+
+3. FINACLE 
+- BOK BANK 
+- GLOBAL IME BANK 
+- EVEREST BANK 
+- NIBL BANK 
+- NABIL BANK 
+
+4. FLEX CUBE 
+- SIDDHARTHA BANK 
+- LAXMI BANK 
+- MEGA BANK 
+- JANTA BANK 
+
+5. GLOBUS/TEMENOS T24 
+- HIMALAYAN BANK 
+- KUMARI BANK 
+- CIVIL BANK 
+- SUNRISE BANK 
+- MACHHAPUCHHRE BANK 
+- ADBL
+
+There are too many software used in Nepali Banker and some them are controlled by Nepali Bank (head office) 
+Note: This information is based on Some online data and also, from commerce/management subjects or books. 
